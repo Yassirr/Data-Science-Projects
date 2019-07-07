@@ -1,4 +1,7 @@
-# Data-Science-Projects
+# Data Science Projects
+
+<p align="center">
+  <img alt="Stello" src="https://github.com/Yassirr/Data-Science-Projects/blob/master/comic.jpg" /><p/>
 
 This repo will have all the Data Science projects I will be working on:
 
