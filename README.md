@@ -2,7 +2,7 @@
 
 This repo will have all the Data Science projects I will be working on:
 
-* Exploring 67 years of LEGO
+* ✔ Exploring 67 years of LEGO
 * Name Game: Gender Prediction using Sound
 * Predicting Credit Card Approvals
 * Find Movie Similarity from Plot Summaries
